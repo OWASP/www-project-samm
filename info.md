@@ -35,8 +35,15 @@ Guide](https://github.com/OWASP/samm/raw/master/Supporting%20Resources/v1.1/Fina
 [Updated SAMM Tool
 Box](https://github.com/OWASP/samm/raw/master/Supporting%20Resources/v1.1/Final/SAMM_Assessment_Toolbox_v1-1-Final.xlsx)
 
+### Slack
+
+- [Join OWASP Slack](https://join.slack.com/t/owasp/shared_invite/enQtNjExMTc3MTg0MzU4LWQ2Nzg3NGJiZGQ2MjRmNzkzN2Q4YzU1MWYyZTdjYjA2ZTA5M2RkNzE2ZjdkNzI5ZThhOWY5MjljYWZmYmY4ZjM)
+- [Join our SAMM channel](https://owasp.slack.com/archives/C0VF1EJGH)
+
 ### Social Links
 * [@owaspsamm](https://twitter.com/owaspsamm)
+* [LinkedIn](https://www.linkedin.com/company/owasp-samm/)
+* [Newsletter](https://owaspsamm.us9.list-manage.com/subscribe?u=b83ce65c91239cb5e623ea83e&id=cbd0520923)
 
 ### Code Repository
 * [Github Repo](https://github/OWASP/samm)
