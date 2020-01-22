@@ -5,12 +5,22 @@
 * <i class="fas fa-shield-alt" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Defender</span>
 * [Current Version (2020)](https://owaspsamm.org/)
 
-### SAMM v2
-
+### SAMM v2 model
 See v2 [online](https://owaspsamm.org/model/)
 
-### Quick Download v1.5
+### Slack
+- [Join OWASP Slack](https://join.slack.com/t/owasp/shared_invite/enQtNjExMTc3MTg0MzU4LWQ2Nzg3NGJiZGQ2MjRmNzkzN2Q4YzU1MWYyZTdjYjA2ZTA5M2RkNzE2ZjdkNzI5ZThhOWY5MjljYWZmYmY4ZjM)
+- [Join our SAMM channel](https://owasp.slack.com/archives/C0VF1EJGH)
 
+### Social Links
+* [@owaspsamm](https://twitter.com/owaspsamm)
+* [LinkedIn](https://www.linkedin.com/company/owasp-samm/)
+* [Newsletter](https://owaspsamm.us9.list-manage.com/subscribe?u=b83ce65c91239cb5e623ea83e&id=cbd0520923)
+
+### Code Repository
+* [Github Repo](https://github/OWASP/samm)
+
+### Download v1.5
 [All SAMM v1.5 files
 (.zip)](https://github.com/OWASP/samm/raw/master/Supporting%20Resources/v1.5/Final/OWASP_SAMM_v1.5.zip)
 [SAMM Core
@@ -24,8 +34,7 @@ Toolbox](https://github.com/OWASP/samm/raw/master/Supporting%20Resources/v1.5/Fi
 [SAMM Toolbox
 Example](https://github.com/OWASP/samm/raw/master/Supporting%20Resources/v1.5/Final/SAMM_Assessment_Toolbox_v1.5-Example_FINAL.xlsx)
 
-### Quick Download v1.1.1
-
+### Download v1.1.1
 [SAMM Core
 Model](https://github.com/OWASP/samm/raw/master/Supporting%20Resources/v1.1/Final/SAMM_Core_V1-1-Final-1page.pdf)
 [How-To
@@ -34,18 +43,4 @@ Guide](https://github.com/OWASP/samm/raw/master/Supporting%20Resources/v1.1/Fina
 Guide](https://github.com/OWASP/samm/raw/master/Supporting%20Resources/v1.1/Final/SAMM_Quick_Start_V1-1-Final-1page.pdf)
 [Updated SAMM Tool
 Box](https://github.com/OWASP/samm/raw/master/Supporting%20Resources/v1.1/Final/SAMM_Assessment_Toolbox_v1-1-Final.xlsx)
-
-### Slack
-
-- [Join OWASP Slack](https://join.slack.com/t/owasp/shared_invite/enQtNjExMTc3MTg0MzU4LWQ2Nzg3NGJiZGQ2MjRmNzkzN2Q4YzU1MWYyZTdjYjA2ZTA5M2RkNzE2ZjdkNzI5ZThhOWY5MjljYWZmYmY4ZjM)
-- [Join our SAMM channel](https://owasp.slack.com/archives/C0VF1EJGH)
-
-### Social Links
-* [@owaspsamm](https://twitter.com/owaspsamm)
-* [LinkedIn](https://www.linkedin.com/company/owasp-samm/)
-* [Newsletter](https://owaspsamm.us9.list-manage.com/subscribe?u=b83ce65c91239cb5e623ea83e&id=cbd0520923)
-
-### Code Repository
-* [Github Repo](https://github/OWASP/samm)
-
 
