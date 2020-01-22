@@ -1,8 +1,13 @@
 ### Information
-* [Flagship Project](#)
-* [Tool Project](#)
-* [Version 2.8.0](#)
-* [Builder](#)
+* <i class="fas fa-flag" style="font-size: 1.2em; color:#2ADA08;"></i><span style="font-size:1.0em;padding-left:12px;">Flagship Project</span>
+* <i class="fas fa-book" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Documentation</span>
+* <i class="fas fa-toolbox" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Builder</span> 
+* <i class="fas fa-shield-alt" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Defender</span>
+* [Current Version (2020)](https://owaspsamm.org/)
+
+### SAMM v2
+
+See v2 [online](https://owaspsamm.org/model/)
 
 ### Quick Download v1.5
 
@@ -36,6 +41,4 @@ Box](https://github.com/OWASP/samm/raw/master/Supporting%20Resources/v1.1/Final/
 ### Code Repository
 * [Github Repo](https://github/OWASP/samm)
 
-### Change Log
-* [changes](#)
 
