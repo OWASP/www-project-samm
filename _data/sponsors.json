@@ -1,19 +1,23 @@
 [
   {
     "name": "Concord",
-    "url": "assets/images/sponsors/concord.png"
+    "image": "assets/images/sponsors/concord.png",
+    "url" : "#"
   },
   {
     "name": "Fortify",
-    "url": "assets/images/sponsors/fortify.png"
+    "image": "assets/images/sponsors/fortify.png",
+    "url" : "#"
   },
   {
     "name": "NCC Group",
-    "url": "assets/images/sponsors/ncc_group.png"
+    "image": "assets/images/sponsors/ncc_group.png",
+    "url" : "#"
   },
   {
     "name": "Splunk",
-    "url": "assets/images/sponsors/splunk.png"
+    "image": "assets/images/sponsors/splunk.png",
+    "url": "https://splunk.com"
   }
 ]
 
