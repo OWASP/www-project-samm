@@ -2,22 +2,32 @@
   {
     "name": "Concord",
     "image": "assets/images/sponsors/concord.png",
-    "url" : "#"
+    "url" : "https://concordusa.com/"
   },
   {
     "name": "Fortify",
     "image": "assets/images/sponsors/fortify.png",
-    "url" : "#"
+    "url" : "https://www.microfocus.com/en-us/solutions/application-security"
   },
   {
     "name": "NCC Group",
     "image": "assets/images/sponsors/ncc_group.png",
-    "url" : "#"
+    "url" : "https://www.nccgroup.trust/uk/"
   },
+  {
+    "name": "PWC",
+    "image": "assets/images/sponsors/pwc.png",
+    "url": "https://www.pwc.com/"
+  }
   {
     "name": "Splunk",
     "image": "assets/images/sponsors/splunk.png",
     "url": "https://splunk.com"
+  }
+  {
+    "name": "Toreon",
+    "image": "assets/images/sponsors/toreon.png",
+    "url": "https://toreon.com"
   }
 ]
 
