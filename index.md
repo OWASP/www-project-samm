@@ -12,10 +12,11 @@ type: documentation
 
 Our mission is to provide an effective and **measurable** way for all types of organizations to analyze and **improve their software security** posture. We want to **raise awareness and educate** organizations on how to design, develop, and deploy secure software through our [**self-assessment model**](https://owaspsamm.org/assessment/). SAMM supports the complete software lifecycle and is technology and process agnostic. We built SAMM to be **evolutive and risk-driven** in nature, as there is no single recipe that works for all organizations.
 
-**OWASP SAMM version 2 released for community review**
+**SAMM V2 IS HERE!**
 
-We are very proud to announce version 2 of SAMM\!
-Check it out on our [SAMM website](https://owaspsamm.org/blog/2019/12/20/version2-community-release/).
+This release is a big one for the project team.
+We're proud to finally share it and extremely grateful to the SAMM community.
+Check it out on our [SAMM website](https://owaspsamm.org/blog/2020/01/31/samm2-release/).
 
 **Join our monthly calls**
 
