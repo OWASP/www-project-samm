@@ -14,8 +14,8 @@ Our mission is to provide an effective and **measurable** way for all types of o
 
 **SAMM V2 IS HERE!**
 
-This release is a big one for the project team.
-We're proud to finally share it and extremely grateful to the SAMM community.
+This release is a big one for the project team.<br>
+We're proud to finally share it and extremely grateful to the SAMM community.<br>
 Check it out on our [SAMM website](https://owaspsamm.org/blog/2020/01/31/samm2-release/).
 
 **Join our monthly calls**
