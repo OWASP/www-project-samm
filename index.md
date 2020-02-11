@@ -23,8 +23,7 @@ Check it out on our [SAMM website](https://owaspsamm.org/blog/2020/01/31/samm2-r
 
   - The monthly call is on each 2nd Wednesday of the month at 21h30 CET
     / 3:30pm ET.
-  - Please join our GoToMeeting:
-    <https://global.gotomeeting.com/join/262891661>
+  - Please join our Zoom meeting: <https://zoom.us/j/934671982>
   - The call is open for everybody interested in SAMM or who wants to
     work on SAMM.
 
