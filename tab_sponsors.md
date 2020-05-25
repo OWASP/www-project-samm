@@ -28,3 +28,8 @@ For more information: Contact <seba@owasp.org>
 ### Project Sponsors
 
 {% include sponsors.md data=site.data.sponsors %}
+
+#### Supporters
+
+* [White Jaguars](https://www.whitejaguars.com/)
+
