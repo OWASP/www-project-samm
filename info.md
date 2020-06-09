@@ -9,7 +9,7 @@
 See v2 [online](https://owaspsamm.org/model/)
 
 ### Slack
-- [Join OWASP Slack](https://join.slack.com/t/owasp/shared_invite/enQtNjExMTc3MTg0MzU4LWQ2Nzg3NGJiZGQ2MjRmNzkzN2Q4YzU1MWYyZTdjYjA2ZTA5M2RkNzE2ZjdkNzI5ZThhOWY5MjljYWZmYmY4ZjM)
+- [Join OWASP Slack](https://owasp-slack.herokuapp.com/)
 - [Join our SAMM channel](https://owasp.slack.com/archives/C0VF1EJGH)
 
 ### Social Links
