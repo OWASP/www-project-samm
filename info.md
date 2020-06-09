@@ -18,7 +18,7 @@ See v2 [online](https://owaspsamm.org/model/)
 * [Newsletter](https://owaspsamm.us9.list-manage.com/subscribe?u=b83ce65c91239cb5e623ea83e&id=cbd0520923)
 
 ### Code Repository
-* [Github Repo](https://github/OWASP/samm)
+* [Github Repo](https://github.com/OWASP/samm)
 
 ### Download v1.5
 [All SAMM v1.5 files
