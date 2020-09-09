@@ -22,7 +22,7 @@ Check it out on our [SAMM website](https://owaspsamm.org/user-day/).<br>
 
   - The monthly call is on each 2nd Wednesday of the month at 21h30 CET
     / 3:30pm ET.
-  - Please join our Zoom meeting: <https://zoom.us/j/934671982>
+  - Please join our Zoom meeting: <https://zoom.us/j/96866048960?pwd=TmZkTSs3ZmlWU09DbHJoSnVZWmdiUT09> (NEW LINK!)
   - The call is open for everybody interested in SAMM or who wants to
     work on SAMM.
 
