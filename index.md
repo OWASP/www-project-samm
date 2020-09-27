@@ -14,9 +14,9 @@ Our mission is to provide an **effective and measurable** way for you to analyze
 SAMM supports the complete software lifecycle and is **technology and process agnostic**. We built SAMM to be **evolutive and risk-driven** in nature, as there is no single recipe that works for all organizations.<br>
 <br>
 
-Check out the OWASP SAMM v2 model online:<br>
+Check out the OWASP SAMM v2 model [online](https://owaspsamm.org/model/):<br>
 [![SAMM Model](assets/images/Samm_v2_600.png)](https://owaspsamm.org/model/)
-
+<br>
 
 **Get OWAS SAMM new delivered to your mailbox**
   - [Subscribe to our newsletter](https://owaspsamm.us9.list-manage.com/subscribe?u=b83ce65c91239cb5e623ea83e&id=cbd0520923)
