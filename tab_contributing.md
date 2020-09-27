@@ -10,9 +10,10 @@ tags: samm
 
 Involvement in the development of SAMM is actively encouraged!
 
-You do not have to be a security expert in order to contribute.
+You do not have to be a security expert in order to help out.
 
-Some of the ways you can help:
+We have written some guidelines on our OWASPP SAMM website on [how you can contribute to SAMM](https://owaspsamm.org/contributing/).
+
 
 ## Feedback
 
