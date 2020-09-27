@@ -12,8 +12,10 @@ type: documentation
 
 Our mission is to provide an **effective and measurable** way for you to analyze and improve your **secure development lifecycle**. 
 SAMM supports the complete software lifecycle and is **technology and process agnostic**. We built SAMM to be **evolutive and risk-driven** in nature, as there is no single recipe that works for all organizations.<br>
+<br>
+
 Check out the OWASP SAMM v2 model online:
-[![SAMM Model](assets/images/Samm_v2_800.png)](https://owaspsamm.org/model/)
+[![SAMM Model](assets/images/Samm_v2_600.png)](https://owaspsamm.org/model/)
 
 
 **Get OWAS SAMM new delivered to your mailbox**
