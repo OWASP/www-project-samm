@@ -15,10 +15,13 @@ SAMM supports the complete software lifecycle and is **technology and process ag
 <br>
 
 Check out the OWASP SAMM v2 model [online](https://owaspsamm.org/model/):<br>
-[![SAMM Model](assets/images/Samm_v2_600.png)](https://owaspsamm.org/model/)
 <br>
 
-**Get OWAS SAMM new delivered to your mailbox**
+[![SAMM Model](assets/images/Samm_v2_600.png)](https://owaspsamm.org/model/)
+<br>
+<br>
+
+**Get OWASP SAMM new delivered to your mailbox**
   - [Subscribe to our newsletter](https://owaspsamm.us9.list-manage.com/subscribe?u=b83ce65c91239cb5e623ea83e&id=cbd0520923)
     
 **Join us on the OWASP SAMM project Slack channel**
