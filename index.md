@@ -10,14 +10,20 @@ type: documentation
 
 **Software Assurance Maturity Model**
 
-Our mission is to provide an effective and **measurable** way for all types of organizations to analyze and **improve their software security** posture. We want to **raise awareness and educate** organizations on how to design, develop, and deploy secure software through our [**self-assessment model**](https://owaspsamm.org/assessment/). SAMM supports the complete software lifecycle and is technology and process agnostic. We built SAMM to be **evolutive and risk-driven** in nature, as there is no single recipe that works for all organizations.
+Our mission is to provide an **effective and measurable** way for you to analyze and improve your **secure development lifecycle**. 
+SAMM supports the complete software lifecycle and is **technology and process agnostic**. We built SAMM to be **evolutive and risk-driven** in nature, as there is no single recipe that works for all organizations.<br>
+Check out the OWASP SAMM v2 model online:
+[![SAMM Model](assets/images/Samm_v2_800.png)](https://owaspsamm.org/model/)
 
-**SAMM User Day!**
 
-On June 16th, 2020 we’re having our first OWASP SAMM User Day online. During this User Day, we’ll share our practical experiences and lessons learned when using OWASP SAMM to improve your secure development practices.<br>
-Check it out on our [SAMM website](https://owaspsamm.org/user-day/).<br>
-[![SAMM Website](assets/images/user_day.png)](https://owaspsamm.org/user-day/)
+**Get OWAS SAMM new delivered to your mailbox**
+  - [Subscribe to our newsletter](https://owaspsamm.us9.list-manage.com/subscribe?u=b83ce65c91239cb5e623ea83e&id=cbd0520923)
+    
+**Join us on the OWASP SAMM project Slack channel**
 
+  - [Join our project slack channel](https://owasp.slack.com/messages/C0VF1EJGH)
+  - Invitations (self registration) via: https://owasp-slack.herokuapp.com/
+    
 **Join our monthly calls**
 
   - The monthly call is on each 2nd Wednesday of the month at 21h30 CET
@@ -26,12 +32,6 @@ Check it out on our [SAMM website](https://owaspsamm.org/user-day/).<br>
   - The call is open for everybody interested in SAMM or who wants to
     work on SAMM.
 
-**Join us on the OWASP SAMM project Slack channel**
-
-  - Join our project slack channel on
-    <https://owasp.slack.com/messages/C0VF1EJGH>
-  - If you do not have an OWASP Slack workspace account yet, contact one
-    of our project leaders to get an invite link.
 
 The Software Assurance Maturity Model (SAMM) is an open framework to
 help organizations formulate and implement a strategy for software
