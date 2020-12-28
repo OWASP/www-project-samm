@@ -5,8 +5,13 @@ title: OWASP SAMM
 tags: samm
 level: 4
 type: documentation
-
+pitch: A Software Assurance Maturity Model (SAMM) that provides an effective and measurable way for all types of organizations to analyse and improve their software security posture.
+ 
 ---
+
+[![OWASP Flagship](https://img.shields.io/badge/OWASP-Flagship%20Project-48A646.svg)](https://owasp.org/projects/#div-flagships)
+[![GitHub Release](https://img.shields.io/github/release/OWASP/SAMM)](https://github.com/OWASP/SAMM/releases)
+[![Follow on Twitter](https://img.shields.io/twitter/follow/owaspsamm.svg?logo=twitter)](https://twitter.com/owaspsamm)
 
 **Software Assurance Maturity Model**
 
