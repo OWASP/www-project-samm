@@ -32,7 +32,7 @@ Check out the OWASP SAMM v2 model [online](https://owaspsamm.org/model/):<br>
 **Join us on the OWASP SAMM project Slack channel**
 
   - [Join our project slack channel](https://owasp.slack.com/messages/C0VF1EJGH)
-  - Invitations (self registration) via: <https://owas.org/slack/invite>
+  - Invitations (self registration) via: <https://owasp.org/slack/invite>
     
 **Join our monthly calls**
 
