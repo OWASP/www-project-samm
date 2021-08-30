@@ -28,6 +28,26 @@
     "name": "Toreon",
     "image": "assets/images/sponsors/Toreon.png",
     "url": "https://toreon.com"
-  }
+  },
+  {
+    "name": "Toreon",
+    "image": "assets/images/sponsors/checkmarx_200.png",
+    "url": "http://www.checkmarx.com"
+  },
+  {
+    "name": "Toreon",
+    "image": "assets/images/sponsors/imq_minded_security_200.png",
+    "url": "https://www.mindedsecurity.com"
+  },
+  {
+    "name": "Toreon",
+    "image": "assets/images/sponsors/indelible_200.png",
+    "url": "http://www.indelible.global"
+  },
+  {
+    "name": "Toreon",
+    "image": "assets/images/sponsors/security_innovation_200.png",
+    "url": "https://www.securityinnovation.com"
+  }  
 ]
 
