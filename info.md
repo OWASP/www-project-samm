@@ -6,7 +6,9 @@
 * [Current Version (2020)](https://owaspsamm.org/)
 
 ### SAMM v2 model
-See v2 [online](https://owaspsamm.org/model/)
+* See v2 [online](https://owaspsamm.org/model/)
+* [SAMM
+Toolbox](https://github.com/owaspsamm/core/releases/download/v2.0.3/SAMM_spreadsheet.xlsx)
 
 ### Slack
 - [Join OWASP Slack](https://owasp-slack.herokuapp.com/)
@@ -18,29 +20,29 @@ See v2 [online](https://owaspsamm.org/model/)
 * [Newsletter](https://owaspsamm.us9.list-manage.com/subscribe?u=b83ce65c91239cb5e623ea83e&id=cbd0520923)
 
 ### Code Repository
-* [Github Repo](https://github.com/OWASP/samm)
+* [Github Repo](https://github.com/OWASPsamm/)
 
 ### Download v1.5
 [All SAMM v1.5 files
-(.zip)](https://github.com/OWASP/samm/raw/master/Supporting%20Resources/v1.5/Final/OWASP_SAMM_v1.5.zip)
-[SAMM Core
+* (.zip)](https://github.com/OWASP/samm/raw/master/Supporting%20Resources/v1.5/Final/OWASP_SAMM_v1.5.zip) 
+* [SAMM Core
 Model](https://github.com/OWASP/samm/raw/master/Supporting%20Resources/v1.5/Final/SAMM_Core_V1-5_FINAL.pdf)
-[How-To
+* [How-To
 Guide](https://github.com/OWASP/samm/raw/master/Supporting%20Resources/v1.5/Final/SAMM_How_To_V1-5_FINAL.pdf)
-[Quick Start
+* [Quick Start
 Guide](https://github.com/OWASP/samm/raw/master/Supporting%20Resources/v1.5/Final/SAMM_Quick_Start_V1-5_FINAL.pdf)
-[SAMM
+* [SAMM
 Toolbox](https://github.com/OWASP/samm/raw/master/Supporting%20Resources/v1.5/Final/SAMM_Assessment_Toolbox_v1.5_FINAL.xlsx)
-[SAMM Toolbox
+* [SAMM Toolbox
 Example](https://github.com/OWASP/samm/raw/master/Supporting%20Resources/v1.5/Final/SAMM_Assessment_Toolbox_v1.5-Example_FINAL.xlsx)
 
 ### Download v1.1.1
-[SAMM Core
+* [SAMM Core
 Model](https://github.com/OWASP/samm/raw/master/Supporting%20Resources/v1.1/Final/SAMM_Core_V1-1-Final-1page.pdf)
-[How-To
+* [How-To
 Guide](https://github.com/OWASP/samm/raw/master/Supporting%20Resources/v1.1/Final/SAMM_How_To_V1-1-Final-1page.pdf)
-[Quick-Start
+* [Quick-Start
 Guide](https://github.com/OWASP/samm/raw/master/Supporting%20Resources/v1.1/Final/SAMM_Quick_Start_V1-1-Final-1page.pdf)
-[Updated SAMM Tool
+* [Updated SAMM Tool
 Box](https://github.com/OWASP/samm/raw/master/Supporting%20Resources/v1.1/Final/SAMM_Assessment_Toolbox_v1-1-Final.xlsx)
 
