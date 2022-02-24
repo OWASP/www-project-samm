@@ -3,7 +3,7 @@
 * <i class="fas fa-book" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Documentation</span>
 * <i class="fas fa-toolbox" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Builder</span> 
 * <i class="fas fa-shield-alt" style="font-size: 1.2em; color:#233e81;"></i><span style="font-size:1.0em;padding-left:12px;">Defender</span>
-* [Current Version (2020)](https://owaspsamm.org/)
+* [Current Version 2.0.3 (2022)](https://owaspsamm.org/)
 
 ### SAMM v2 model
 * See v2 [online](https://owaspsamm.org/model/)
@@ -16,6 +16,8 @@ Toolbox](https://github.com/owaspsamm/core/releases/download/v2.0.3/SAMM_spreads
 
 ### Social Links
 * [@owaspsamm](https://twitter.com/owaspsamm)
+* [YouTube](https://www.youtube.com/channel/UCEZDbvQrj5APg5cEET49A_g)
+* [Slack channel](https://owasp.slack.com/archives/C0VF1EJGH)
 * [LinkedIn](https://www.linkedin.com/company/owasp-samm/)
 * [Newsletter](https://owaspsamm.us9.list-manage.com/subscribe?u=b83ce65c91239cb5e623ea83e&id=cbd0520923)
 
@@ -23,8 +25,8 @@ Toolbox](https://github.com/owaspsamm/core/releases/download/v2.0.3/SAMM_spreads
 * [Github Repo](https://github.com/OWASPsamm/)
 
 ### Download v1.5
-[All SAMM v1.5 files
-* (.zip)](https://github.com/OWASP/samm/raw/master/Supporting%20Resources/v1.5/Final/OWASP_SAMM_v1.5.zip) 
+* [All SAMM v1.5 files
+ (.zip)](https://github.com/OWASP/samm/raw/master/Supporting%20Resources/v1.5/Final/OWASP_SAMM_v1.5.zip) 
 * [SAMM Core
 Model](https://github.com/OWASP/samm/raw/master/Supporting%20Resources/v1.5/Final/SAMM_Core_V1-5_FINAL.pdf)
 * [How-To
