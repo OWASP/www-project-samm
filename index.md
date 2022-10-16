@@ -22,7 +22,7 @@ SAMM supports the complete software lifecycle and is **technology and process ag
 Check out the OWASP SAMM v2 model [online](https://owaspsamm.org/model/):<br>
 <br>
 
-[![SAMM Model](assets/images/OWASP-SAMM-model-600.png)](https://owaspsamm.org/model/)
+[![SAMM Model](assets/images/OWASP-SAMM-model-800.png)](https://owaspsamm.org/model/)
 <br>
 <br>
 
