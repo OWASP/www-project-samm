@@ -1,13 +1,33 @@
 [
   {
+    "name": "Checkmarx",
+    "image": "assets/images/sponsors/checkmarx_200.png",
+    "url": "http://www.checkmarx.com"
+  },
+  {
+    "name": "Codific",
+    "image": "assets/images/sponsors/codific_200.png",
+    "url" : "https://codific.com"
+  },
+  {
     "name": "Concord",
     "image": "assets/images/sponsors/concord.png",
-    "url" : "https://concordusa.com/"
+    "url" : "https://concordusa.com"
   },
   {
     "name": "Fortify",
     "image": "assets/images/sponsors/fortify.png",
     "url" : "https://www.microfocus.com/en-us/solutions/application-security"
+  },
+  {
+    "name": "Indelible",
+    "image": "assets/images/sponsors/indelible_200.png",
+    "url": "http://www.indelible.global"
+  }, 
+  {
+    "name": "Minded",
+    "image": "assets/images/sponsors/imq_minded_security_200.png",
+    "url": "https://www.mindedsecurity.com"
   },
   {
     "name": "NCC Group",
@@ -17,7 +37,7 @@
   {
     "name": "PWC",
     "image": "assets/images/sponsors/pwc.png",
-    "url": "https://www.pwc.com/"
+    "url": "https://www.pwc.com"
   },
   {
     "name": "Splunk",
@@ -25,29 +45,15 @@
     "url": "https://splunk.com"
   },
   {
+    "name": "SecurityInnovation",
+    "image": "assets/images/sponsors/security_innovation_200.png",
+    "url": "https://www.securityinnovation.com"
+  }, 
+  {
     "name": "Toreon",
     "image": "assets/images/sponsors/Toreon.png",
     "url": "https://toreon.com"
-  },
-  {
-    "name": "Toreon",
-    "image": "assets/images/sponsors/checkmarx_200.png",
-    "url": "http://www.checkmarx.com"
-  },
-  {
-    "name": "Toreon",
-    "image": "assets/images/sponsors/imq_minded_security_200.png",
-    "url": "https://www.mindedsecurity.com"
-  },
-  {
-    "name": "Toreon",
-    "image": "assets/images/sponsors/indelible_200.png",
-    "url": "http://www.indelible.global"
-  },
-  {
-    "name": "Toreon",
-    "image": "assets/images/sponsors/security_innovation_200.png",
-    "url": "https://www.securityinnovation.com"
-  }  
+  }
+ 
 ]
 
