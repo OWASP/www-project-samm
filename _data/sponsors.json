@@ -15,15 +15,15 @@
     "url" : "https://concordusa.com"
   },
   {
+    "name": "Indelible",
+    "image": "assets/images/sponsors/indelible_200.png",
+    "url": "http://www.indelible.global"
+  },
+  {
     "name": "Fortify",
     "image": "assets/images/sponsors/fortify.png",
     "url" : "https://www.microfocus.com/en-us/solutions/application-security"
   },
-  {
-    "name": "Indelible",
-    "image": "assets/images/sponsors/indelible_200.png",
-    "url": "http://www.indelible.global"
-  }, 
   {
     "name": "Minded",
     "image": "assets/images/sponsors/imq_minded_security_200.png",
@@ -40,15 +40,15 @@
     "url": "https://www.pwc.com"
   },
   {
-    "name": "Splunk",
-    "image": "assets/images/sponsors/splunk.png",
-    "url": "https://splunk.com"
-  },
-  {
     "name": "SecurityInnovation",
     "image": "assets/images/sponsors/security_innovation_200.png",
     "url": "https://www.securityinnovation.com"
   }, 
+  {
+    "name": "Splunk",
+    "image": "assets/images/sponsors/splunk.png",
+    "url": "https://splunk.com"
+  },
   {
     "name": "Toreon",
     "image": "assets/images/sponsors/Toreon.png",
