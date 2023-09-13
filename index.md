@@ -38,7 +38,7 @@ Check out the OWASP SAMM v2 model [online](https://owaspsamm.org/model/):<br>
 
   - The monthly call is on each 2nd Wednesday of the month at 21h30 CET
     / 3:30pm ET.
-  - Please join our Zoom meeting: <https://zoom.us/j/96866048960?pwd=TmZkTSs3ZmlWU09DbHJoSnVZWmdiUT09> (NEW LINK!)
+  - Register through our [SAMM MeetUp](https://www.meetup.com/owasp-samm/) to join the Zoom call.
   - The call is open for everybody interested in SAMM or who wants to
     work on SAMM.
 
