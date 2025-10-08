@@ -1,0 +1,83 @@
+audience:
+  - builder
+  - defender
+community:
+  - name: project-samm
+    platform: slack
+    url: https://owasp.slack.com/archives/C0VF1EJGH
+    description: slack channel on all topics related to OWASP SAMM
+leaders:
+  - name: Seba Deleersnyder
+    email: seba@owasp.org
+    github: SebaDele
+  - name: Bart De Win
+    email: bart@owasp.org
+    github: 23bartman
+level: 4
+license:
+  - Apache-2.0
+  - CC-BY-SA-4.0
+  - MIT
+name: OWASP SAMM
+pitch: A Software Assurance Maturity Model (SAMM) that provides an effective and measurable way for all types of organizations to analyse and improve their
+  software security posture.
+repositories:
+  - name: www-project-samm
+    url: https://github.com/OWASP/www-project-samm
+    description: OWASP Foundation Web Repository
+  - name: benchmark
+    url: https://github.com/owaspsamm/benchmark
+    description: SAMM benchmark design and code
+  - name: core
+    url: https://github.com/owaspsamm/core
+    description: Core model including reused documentation
+  - name: i18n-CS
+    url: https://github.com/owaspsamm/i18n-CS
+    description: This repo contains the translated files in Czech from the core model, and translated files are managed through CrowdIn.
+  - name: i18n-es-ES
+    url: https://github.com/owaspsamm/i18n-es-ES
+  - name: i18n-FR
+    url: https://github.com/owaspsamm/i18n-FR
+    description: Repo for the French translation of the project, integrated with Crowdin.
+  - name: i18n-IT
+    url: https://github.com/owaspsamm/i18n-IT
+    description: This repo contains the translated files in Italian from the core model, and translated files are managed through CrowdIn.
+  - name: i18n-NL
+    url: https://github.com/owaspsamm/i18n-NL
+    description: This repo contains the translated files in Dutch from the core model, and translated files are managed through CrowdIn.
+  - name: i18n-pt-BR
+    url: https://github.com/owaspsamm/i18n-pt-BR
+    description: This repo contains the translated files in Brazilian Portuguese from the core model, and translated files are managed through CrowdIn.
+  - name: i18n-RU
+    url: https://github.com/owaspsamm/i18n-RU
+    description: This repo contains the translated files in Russian from the core model, and translated files are managed through CrowdIn.
+  - name: i18n-TEST
+    url: https://github.com/owaspsamm/i18n-TEST
+    description: Test repo to run tests for the translation setup via CrowdIn.
+  - name: i18n-zh-TW
+    url: https://github.com/owaspsamm/i18n-zh-TW
+    description: This repo contains the translated files in traditional Chinese (Taiwan) from the core model, and translated files are managed through CrowdIn.
+  - name: MarkMySAMM
+    url: https://github.com/owaspsamm/MarkMySAMM
+    description: A script that parses OWASP SAMM YAML source files and outputs Hugo markdown files for the OWASP SAMM website
+  - name: pdf-generator
+    url: https://github.com/owaspsamm/pdf-generator
+    description: 'Software for generating PDF version of OWASP SAMM. '
+  - name: process-yaml-content
+    url: https://github.com/owaspsamm/process-yaml-content
+    description: GitHub Action for processing yaml files for OWASP Samm
+  - name: samm-suite
+    url: https://github.com/owaspsamm/samm-suite
+    description: This is an issues-only repository.
+  - name: toolbox-spreadsheet
+    url: https://github.com/owaspsamm/toolbox-spreadsheet
+    description: Toolbox spreadsheet for assessing maturity and definition of roadmap
+  - name: website
+    url: https://github.com/owaspsamm/website
+    description: The OWASP SAMM Website
+tags:
+  - samm
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-samm
