@@ -26,7 +26,7 @@ Check out the OWASP SAMM v2 model [online](https://owaspsamm.org/model/):<br>
 <br>
 <br>
 
-**Get OWASP SAMM new delivered to your mailbox**
+**Get OWASP SAMM news delivered to your mailbox**
   - [Subscribe to our newsletter](https://owaspsamm.us9.list-manage.com/subscribe?u=b83ce65c91239cb5e623ea83e&id=cbd0520923)
     
 **Join us on the OWASP SAMM project Slack channel**
